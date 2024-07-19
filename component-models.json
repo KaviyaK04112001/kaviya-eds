@@ -189,6 +189,13 @@
   {
     "id": "carousel",
     "fields": [
+      {
+        "component": "reference",
+        "valueType": "string",
+        "name": "fileReference",
+        "label": "Image",
+        "multi": false
+      },
        {
          "component": "text-area",
          "name": "carousel",
